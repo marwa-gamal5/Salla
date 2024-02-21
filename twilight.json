@@ -604,6 +604,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "1fa6e2b1-0805-4acc-9665-7463b77e4933",
+            "title": "Banner",
+            "icon": "sicon-store",
+            "path": "home.Banner",
+            "fields": []
         }
     ],
     "support_url": "https://salla.dev",
